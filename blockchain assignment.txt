@@ -1,0 +1,34 @@
+What is your understanding of Blockchain?
+Ans:Blockchain is a distributed database existing on multiple computers at the same time. 
+It is constantly growing as new sets of recordings,or 'blocks', are added to it. 
+Each block contains a timestamp and a link to the previous block,so they actually form a chain
+
+
+What is the core problem Blockchain trying to solve?
+Ans: In creating a blockchain, organizations need to define the specific problem they are trying to solve. 
+Then they must determine which transactions orinteractions the blockchain should capture and who should have access to which portions.
+Its also help in verfication process also.
+
+What are the few features which Blockchain will give you?
+Ans:The Blockchain gives  Decentralized Technology,Enhanced Security,Distributed Ledgers,Consensus,Faster Settlement
+
+What all things does a Block contain?
+Ans:A blockchain, originally block chain, is a growing list of records, called blocks, that are linked using cryptography.
+ Each block containsa cryptographic hash of the previous block, a timestamp, and transaction data
+
+How is the verifiability of Blockchain has been attained?
+Ans:it is verfiable by:
+As public ledgers, Bitcoin blockchain and Ethereum require transactions to be visible by default.
+Ethereum network offers pseudo-anonymity;
+ for example, transactions are linked to addresses that correspond to public keys derived by user-held private keys,
+ not by username or password.Certain technologies are currently being developed and tested for Ethereum 2 
+and Ethereum 3 that add an enclave of privacy to public Ethereum, namely, zk-SNARKs.
+A zk-SNARK is a cryptogaphic proof system that allows users to maintain private transactions while 
+validating the transactions according to the network’s consensus algorithm.
+Once zk-SNARKs implemented, organizations will be able to transact on the same network as 
+their competitors in complete privacy, while enjoying the security of the public Ethereum blockchain.
+Until then, enterprises can utilize public or private Ethereum to address a wide variety of use cases.
+
+
+
+
